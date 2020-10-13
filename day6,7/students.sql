@@ -39,8 +39,8 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `name`, `email`, `password`) VALUES
-(1, 'Nikhil', 'nsdr2000@gmail.com', '202cb962ac59075b964b07152d234b70'),
-(16, 'Ashwith', 'poojaryashan18it@student.mes.ac.in', '202cb962ac59075b964b07152d234b70'),
+(1, 'retu', 'retu@mishra.com', '202cb962ac59075b964b07152d234b70'),
+(16, 'aastha', 'aastha@student.mes.ac.in', '202cb962ac59075b964b07152d234b70'),
 (35, 'chinmay', 'chinmay@gmail.com', '202cb962ac59075b964b07152d234b70');
 
 --

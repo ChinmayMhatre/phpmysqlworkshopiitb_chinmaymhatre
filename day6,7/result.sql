@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`) VALUES
-(1, 'duttaroyniksu18it@student.mes.ac.in', '827ccb0eea8a706c4c34a16891f84e7b');
+(1, 'chinmay@student.mes.ac.in', '827ccb0eea8a706c4c34a16891f84e7b');
 
 -- --------------------------------------------------------
 

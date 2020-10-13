@@ -19,7 +19,7 @@
             
             $to=$parent_email;
             $subject="$sname Marksheet";
-            $headers="From: nsdr2000@gmail.com";
+            $headers="From: mhatrechisa18it@student.mes.ac.in";
             nl2br("New line will start from here\n in this string\r\n on the browser window");
             $body=" HTML : $subject1 \n PHP : $subject2 \n MYSQL : $subject3 \n Total : $totalobtained \n Percentage : $percentage";            
             mail($to,$subject,$body,$headers);      
